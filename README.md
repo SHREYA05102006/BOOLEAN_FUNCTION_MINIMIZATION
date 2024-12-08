@@ -1,3 +1,5 @@
+## NAME:V.SHREYA
+## Developed by: RegisterNumber:24000632
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -33,18 +35,23 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+ ![Screenshot 2024-12-08 180957](https://github.com/user-attachments/assets/3864cbe2-11f2-4e22-95a9-26993b9369a4)
 
-Developed by: RegisterNumber:*/
+
+
 
 
 **RTL realization**
 
-**Output:**
+![Screenshot (163)](https://github.com/user-attachments/assets/5c687d60-5091-444a-ab67-9b52ffd8b909)
 
-**RTL**
+**Truth table:**
+![Screenshot 2024-12-08 173230](https://github.com/user-attachments/assets/c2db82af-f558-461a-897d-cfa3b0f4bd32)
+![Screenshot 2024-12-08 173625](https://github.com/user-attachments/assets/71c527b8-7dfd-43f0-a107-d3252cec8c29)
 
 **Timing Diagram**
+
+![Screenshot (164)](https://github.com/user-attachments/assets/7d1880c8-1c07-4ffb-bfc7-5c14895b91ec)
 
 **Result:**
 
